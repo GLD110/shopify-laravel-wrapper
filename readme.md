@@ -217,3 +217,4 @@ foreach($shops as $domain => $access)
 ```
 
 
+*---- GLD ----*
