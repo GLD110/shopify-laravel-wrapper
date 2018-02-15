@@ -318,7 +318,7 @@ class API
 			    $result['_ERROR'] = $_ERROR;
 			    $result['_INFO'] = $_INFO;
 		    }
-		    else
+		    else nm
 		    {
 			    $result->_ERROR = $_ERROR;
 			    $result->_INFO = $_INFO;
